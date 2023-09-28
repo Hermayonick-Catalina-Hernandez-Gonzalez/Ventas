@@ -1,6 +1,11 @@
 # Ventas
 Crear un gestor de ventas donde :
 
+       Ventana principal:
+              -Usuario 
+              -contraseña
+              -boton de inciar
+
        Productos: 
         -Agregues un producto
                -Si el codigo ya esta registrado ventana
@@ -16,6 +21,7 @@ Crear un gestor de ventas donde :
             
             Ventas:
         -Vender un producto 
+        -Imprimir Ticket 
         -Modificar venta
         -Elimar venta 
         -Consultar venta
@@ -28,6 +34,12 @@ Crear un gestor de ventas donde :
         - Precio de un producto
         - Cantidad del producto
 
+       Generar un reporte:
+              -El nombre del producto
+              -la cantidad vendida
+              -Precio total de los productos 
+              -total de ganacias 
+              -Reporte por dia, por mes, de año 
        Poner ventanas emergentes si algo marca error 
        *Opcional crear una conexion a base de datos 
 
