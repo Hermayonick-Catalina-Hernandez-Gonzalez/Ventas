@@ -1,5 +1,7 @@
 # Ventas
 Crear un gestor de ventas donde :
+
+       Productos: 
         -Agregues un producto
         -Modificque un producto 
         -Elimines un producto o dar de baja un producto que se ingreso mal
