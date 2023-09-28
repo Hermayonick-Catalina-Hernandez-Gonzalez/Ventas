@@ -1,4 +1,5 @@
 # Ventas
+Para el fecha pediente
 Crear un gestor de ventas donde :
 
        Ventana principal:
@@ -17,7 +18,7 @@ Crear un gestor de ventas donde :
         -Ver un producto 
             -Ver un producto Que te dje ingresar un copdigo y que al precionar bucar el producto si exite se muestra las descripcion y no una ventana emergente 
             -Ver todo los productos
-       -dDar de baja el producto
+              -Dar de baja el producto
             
             Ventas:
         -Vender un producto 
@@ -39,7 +40,8 @@ Crear un gestor de ventas donde :
               -la cantidad vendida
               -Precio total de los productos 
               -total de ganacias 
-              -Reporte por dia, por mes, de año 
+              -Reporte por dia, por mes, de año
+              -descargar reporte
        Poner ventanas emergentes si algo marca error 
        *Opcional crear una conexion a base de datos 
 
