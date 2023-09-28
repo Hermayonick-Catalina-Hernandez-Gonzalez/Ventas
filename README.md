@@ -4,6 +4,8 @@ Crear un gestor de ventas donde :
     -Modificque un producto 
     -Elimines un producto 
     -Ver un producto 
+        -Ver un producto 
+        -Ver todo los productos
     
   Se guarde en un archivo csv 
     -Donde guarde el codigo del producto 
