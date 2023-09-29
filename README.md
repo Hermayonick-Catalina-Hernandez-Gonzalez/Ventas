@@ -3,9 +3,8 @@ Para el fecha pediente
 Crear un gestor de ventas donde :
 
        Ventana principal:
-              -Usuario 
-              -contraseña
               -boton de inciar
+              -salir
 
        Productos: 
         -Agregues un producto
